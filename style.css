@@ -1,0 +1,34 @@
+body {
+  width: 250px;
+  font-family: Arial, sans-serif;
+}
+
+input {
+  width: 90%;
+  padding: 5px;
+  margin: 5px 0;
+}
+
+button {
+  width: 100%;
+  padding: 8px;
+  background: blue;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+ul {
+  margin-top: 10px;
+  padding: 0;
+  list-style: none;
+}
+
+li a {
+  text-decoration: underline;
+  color: blue;
+}
+
+p {
+  color: red;
+}
