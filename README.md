@@ -8,7 +8,7 @@ A simple Chrome extension to **save job links and get reminders** before deadlin
 
 1. Download the ZIP or clone this repo:  
    ```sh
-   git clone https://github.com/haniolwan/don-t-forget-to-apply-for-this-job
+   git clone https://github.com/haniolwan/dont-forget-to-apply-for-this-job
    ```
 2. Open **Google Chrome** and go to:  
    👉 `chrome://extensions/`
